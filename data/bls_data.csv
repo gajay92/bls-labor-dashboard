@@ -1,0 +1,234 @@
+series_id,series_name,unit,date,value
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-01-01,154776.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-02-01,155066.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-03-01,155134.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-04-01,155375.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-05-01,155655.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-06-01,155880.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-07-01,156043.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-08-01,156261.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-09-01,156417.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-10-01,156576.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-11-01,156703.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2023-12-01,156857.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-01-01,157032.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-02-01,157238.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-03-01,157466.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-04-01,157530.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-05-01,157608.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-06-01,157695.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-07-01,157748.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-08-01,157757.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-09-01,157912.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-10-01,157945.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-11-01,158079.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2024-12-01,158316.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-01-01,158268.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-02-01,158310.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-03-01,158377.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-04-01,158485.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-05-01,158498.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-06-01,158478.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-07-01,158542.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-08-01,158472.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-09-01,158548.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-10-01,158408.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-11-01,158449.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2025-12-01,158432.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2026-01-01,158592.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2026-02-01,158459.0
+CES0000000001,Total Nonfarm Payroll,Thousands of Jobs,2026-03-01,158637.0
+CES0500000003,Average Hourly Earnings,Dollars,2023-01-01,33.02
+CES0500000003,Average Hourly Earnings,Dollars,2023-02-01,33.15
+CES0500000003,Average Hourly Earnings,Dollars,2023-03-01,33.27
+CES0500000003,Average Hourly Earnings,Dollars,2023-04-01,33.43
+CES0500000003,Average Hourly Earnings,Dollars,2023-05-01,33.5
+CES0500000003,Average Hourly Earnings,Dollars,2023-06-01,33.69
+CES0500000003,Average Hourly Earnings,Dollars,2023-07-01,33.85
+CES0500000003,Average Hourly Earnings,Dollars,2023-08-01,33.89
+CES0500000003,Average Hourly Earnings,Dollars,2023-09-01,34.01
+CES0500000003,Average Hourly Earnings,Dollars,2023-10-01,34.08
+CES0500000003,Average Hourly Earnings,Dollars,2023-11-01,34.17
+CES0500000003,Average Hourly Earnings,Dollars,2023-12-01,34.29
+CES0500000003,Average Hourly Earnings,Dollars,2024-01-01,34.47
+CES0500000003,Average Hourly Earnings,Dollars,2024-02-01,34.52
+CES0500000003,Average Hourly Earnings,Dollars,2024-03-01,34.65
+CES0500000003,Average Hourly Earnings,Dollars,2024-04-01,34.76
+CES0500000003,Average Hourly Earnings,Dollars,2024-05-01,34.89
+CES0500000003,Average Hourly Earnings,Dollars,2024-06-01,35.01
+CES0500000003,Average Hourly Earnings,Dollars,2024-07-01,35.08
+CES0500000003,Average Hourly Earnings,Dollars,2024-08-01,35.22
+CES0500000003,Average Hourly Earnings,Dollars,2024-09-01,35.34
+CES0500000003,Average Hourly Earnings,Dollars,2024-10-01,35.46
+CES0500000003,Average Hourly Earnings,Dollars,2024-11-01,35.6
+CES0500000003,Average Hourly Earnings,Dollars,2024-12-01,35.69
+CES0500000003,Average Hourly Earnings,Dollars,2025-01-01,35.84
+CES0500000003,Average Hourly Earnings,Dollars,2025-02-01,35.94
+CES0500000003,Average Hourly Earnings,Dollars,2025-03-01,36.11
+CES0500000003,Average Hourly Earnings,Dollars,2025-04-01,36.12
+CES0500000003,Average Hourly Earnings,Dollars,2025-05-01,36.28
+CES0500000003,Average Hourly Earnings,Dollars,2025-06-01,36.36
+CES0500000003,Average Hourly Earnings,Dollars,2025-07-01,36.47
+CES0500000003,Average Hourly Earnings,Dollars,2025-08-01,36.62
+CES0500000003,Average Hourly Earnings,Dollars,2025-09-01,36.7
+CES0500000003,Average Hourly Earnings,Dollars,2025-10-01,36.85
+CES0500000003,Average Hourly Earnings,Dollars,2025-11-01,37.0
+CES0500000003,Average Hourly Earnings,Dollars,2025-12-01,37.02
+CES0500000003,Average Hourly Earnings,Dollars,2026-01-01,37.15
+CES0500000003,Average Hourly Earnings,Dollars,2026-02-01,37.29
+CES0500000003,Average Hourly Earnings,Dollars,2026-03-01,37.38
+JTS000000000000000JOL,Job Openings,Thousands,2023-01-01,10318.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-02-01,9857.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-03-01,9655.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-04-01,9966.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-05-01,9368.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-06-01,9180.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-07-01,8657.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-08-01,9254.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-09-01,9259.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-10-01,8580.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-11-01,8602.0
+JTS000000000000000JOL,Job Openings,Thousands,2023-12-01,8520.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-01-01,8378.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-02-01,8440.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-03-01,8206.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-04-01,7529.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-05-01,7782.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-06-01,7416.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-07-01,7426.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-08-01,7520.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-09-01,6943.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-10-01,7379.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-11-01,7566.0
+JTS000000000000000JOL,Job Openings,Thousands,2024-12-01,7295.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-01-01,7431.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-02-01,7242.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-03-01,6952.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-04-01,7098.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-05-01,7310.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-06-01,7204.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-07-01,7089.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-08-01,6919.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-09-01,7169.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-10-01,7170.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-11-01,6846.0
+JTS000000000000000JOL,Job Openings,Thousands,2025-12-01,6550.0
+JTS000000000000000JOL,Job Openings,Thousands,2026-01-01,7240.0
+JTS000000000000000JOL,Job Openings,Thousands,2026-02-01,6882.0
+LNS11300000,Labor Force Participation Rate,Percent,2023-01-01,62.4
+LNS11300000,Labor Force Participation Rate,Percent,2023-02-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2023-03-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-04-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-05-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-06-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-07-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-08-01,62.8
+LNS11300000,Labor Force Participation Rate,Percent,2023-09-01,62.7
+LNS11300000,Labor Force Participation Rate,Percent,2023-10-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2023-11-01,62.8
+LNS11300000,Labor Force Participation Rate,Percent,2023-12-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2024-01-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2024-02-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2024-03-01,62.7
+LNS11300000,Labor Force Participation Rate,Percent,2024-04-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2024-05-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2024-06-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2024-07-01,62.7
+LNS11300000,Labor Force Participation Rate,Percent,2024-08-01,62.7
+LNS11300000,Labor Force Participation Rate,Percent,2024-09-01,62.7
+LNS11300000,Labor Force Participation Rate,Percent,2024-10-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2024-11-01,62.4
+LNS11300000,Labor Force Participation Rate,Percent,2024-12-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2025-01-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2025-02-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2025-03-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2025-04-01,62.6
+LNS11300000,Labor Force Participation Rate,Percent,2025-05-01,62.4
+LNS11300000,Labor Force Participation Rate,Percent,2025-06-01,62.3
+LNS11300000,Labor Force Participation Rate,Percent,2025-07-01,62.2
+LNS11300000,Labor Force Participation Rate,Percent,2025-08-01,62.3
+LNS11300000,Labor Force Participation Rate,Percent,2025-09-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2025-10-01,
+LNS11300000,Labor Force Participation Rate,Percent,2025-11-01,62.5
+LNS11300000,Labor Force Participation Rate,Percent,2025-12-01,62.4
+LNS11300000,Labor Force Participation Rate,Percent,2026-01-01,62.1
+LNS11300000,Labor Force Participation Rate,Percent,2026-02-01,62.0
+LNS11300000,Labor Force Participation Rate,Percent,2026-03-01,61.9
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-01-01,1094.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-02-01,1062.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-03-01,1067.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-04-01,1076.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-05-01,1151.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-06-01,1122.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-07-01,1190.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-08-01,1360.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-09-01,1241.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-10-01,1327.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-11-01,1166.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2023-12-01,1273.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-01-01,1279.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-02-01,1219.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-03-01,1259.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-04-01,1249.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-05-01,1356.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-06-01,1534.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-07-01,1537.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-08-01,1536.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-09-01,1612.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-10-01,1604.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-11-01,1651.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2024-12-01,1551.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-01-01,1449.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-02-01,1461.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-03-01,1499.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-04-01,1672.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-05-01,1464.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-06-01,1651.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-07-01,1822.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-08-01,1924.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-09-01,1815.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-10-01,
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-11-01,1910.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2025-12-01,1948.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2026-01-01,1813.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2026-02-01,1899.0
+LNS13008636,Long-Term Unemployment (27+ wks),Thousands,2026-03-01,1821.0
+LNS14000000,Unemployment Rate,Percent,2023-01-01,3.5
+LNS14000000,Unemployment Rate,Percent,2023-02-01,3.6
+LNS14000000,Unemployment Rate,Percent,2023-03-01,3.5
+LNS14000000,Unemployment Rate,Percent,2023-04-01,3.4
+LNS14000000,Unemployment Rate,Percent,2023-05-01,3.6
+LNS14000000,Unemployment Rate,Percent,2023-06-01,3.6
+LNS14000000,Unemployment Rate,Percent,2023-07-01,3.5
+LNS14000000,Unemployment Rate,Percent,2023-08-01,3.7
+LNS14000000,Unemployment Rate,Percent,2023-09-01,3.7
+LNS14000000,Unemployment Rate,Percent,2023-10-01,3.9
+LNS14000000,Unemployment Rate,Percent,2023-11-01,3.7
+LNS14000000,Unemployment Rate,Percent,2023-12-01,3.8
+LNS14000000,Unemployment Rate,Percent,2024-01-01,3.7
+LNS14000000,Unemployment Rate,Percent,2024-02-01,3.9
+LNS14000000,Unemployment Rate,Percent,2024-03-01,3.9
+LNS14000000,Unemployment Rate,Percent,2024-04-01,3.9
+LNS14000000,Unemployment Rate,Percent,2024-05-01,3.9
+LNS14000000,Unemployment Rate,Percent,2024-06-01,4.1
+LNS14000000,Unemployment Rate,Percent,2024-07-01,4.2
+LNS14000000,Unemployment Rate,Percent,2024-08-01,4.2
+LNS14000000,Unemployment Rate,Percent,2024-09-01,4.1
+LNS14000000,Unemployment Rate,Percent,2024-10-01,4.1
+LNS14000000,Unemployment Rate,Percent,2024-11-01,4.2
+LNS14000000,Unemployment Rate,Percent,2024-12-01,4.1
+LNS14000000,Unemployment Rate,Percent,2025-01-01,4.0
+LNS14000000,Unemployment Rate,Percent,2025-02-01,4.2
+LNS14000000,Unemployment Rate,Percent,2025-03-01,4.2
+LNS14000000,Unemployment Rate,Percent,2025-04-01,4.2
+LNS14000000,Unemployment Rate,Percent,2025-05-01,4.3
+LNS14000000,Unemployment Rate,Percent,2025-06-01,4.1
+LNS14000000,Unemployment Rate,Percent,2025-07-01,4.3
+LNS14000000,Unemployment Rate,Percent,2025-08-01,4.3
+LNS14000000,Unemployment Rate,Percent,2025-09-01,4.4
+LNS14000000,Unemployment Rate,Percent,2025-10-01,
+LNS14000000,Unemployment Rate,Percent,2025-11-01,4.5
+LNS14000000,Unemployment Rate,Percent,2025-12-01,4.4
+LNS14000000,Unemployment Rate,Percent,2026-01-01,4.3
+LNS14000000,Unemployment Rate,Percent,2026-02-01,4.4
+LNS14000000,Unemployment Rate,Percent,2026-03-01,4.3
