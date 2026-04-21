@@ -37,7 +37,7 @@ df = load_data()
 
 st.title("U.S. Labor Market Dashboard")
 st.markdown(
-    "Data sourced from the **Bureau of Labor Statistics (BLS) Public API. "
+    "Data sourced from the Bureau of Labor Statistics (BLS) Public API. "
     "Updated automatically each month via GitHub Actions."
 )
 st.divider()
