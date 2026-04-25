@@ -118,7 +118,7 @@ for i, series_name in enumerate(all_series):
 
 st.divider()
 
-# ── MODE 1: Single Series ─────────────────────────────────────────────────────
+#MODE 1: Single Series
 
 if mode == "Single Series":
 
@@ -131,7 +131,7 @@ if mode == "Single Series":
     )
     filtered = df[mask].copy()
 
-    st.subheader(f"📈 {selected_series} Over Time")
+    st.subheader(f"{selected_series} Over Time")
 
     unit = filtered["unit"].iloc[0] if not filtered.empty else ""
 
@@ -168,7 +168,7 @@ if mode == "Single Series":
         recent.reset_index(drop=True, inplace=True)
         st.dataframe(recent, use_container_width=True, hide_index=True)
 
-# ── MODE 2: Compare Trends ────────────────────────────────────────────────────
+# MODE 2: Compare Trends
 
 elif mode == "Compare Trends":
 
@@ -250,7 +250,7 @@ elif mode == "Compare Trends":
         st.plotly_chart(fig, use_container_width=True)
 
         # Show a summary table of % change for each series
-        st.subheader("📋 Change Summary")
+        st.subheader(" Change Summary")
         summary_rows = []
         for series_name in selected_compare:
             mask = (
