@@ -19,7 +19,6 @@ import os
 #Page Config
 st.set_page_config(
     page_title="U.S. Labor Market Dashboard",
-    page_icon="📊",
     layout="wide",
 )
 
@@ -83,16 +82,6 @@ st.sidebar.caption(
 )
 
 #Filter Data
-
-'''
-#Filter to selected series and date range
-mask = (
-    (df["series_name"] == selected_series) &
-    (df["date"] >= start_date) &
-    (df["date"] <= end_date)
-)
-filtered = df[mask].copy()
-'''
 #Headline Metric Cards
 
 st.subheader("Latest Readings (All Series)")
@@ -167,7 +156,7 @@ if mode == "Single Series":
         )
         st.plotly_chart(fig, use_container_width=True)
 
-    st.subheader("🗂️ Recent Data")
+    st.subheader(" Recent Data")
     if not filtered.empty:
         recent = (
             filtered.sort_values("date", ascending=False)
@@ -190,7 +179,7 @@ elif mode == "Compare Trends":
         help="Select 2 or more series to compare on a normalized chart."
     )
 
-    st.subheader("📊 Compare Trends Across Series")
+    st.subheader(" Compare Trends Across Series")
 
     st.info(
         "**How to read this chart:** Each series is normalized to an index where its "
